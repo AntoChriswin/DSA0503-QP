@@ -1,0 +1,7 @@
+transaction_id,account_number,amount,transaction_type
+T101,A1001,5000,deposit
+T102,A1002,2000,WITHDRAWAL
+T101,A1001,5000,Deposit
+T103,,1500,withdraw
+T104,A1004,3000,DEPOSIT
+T105,A1005,2500,transfer

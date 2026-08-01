@@ -1,0 +1,23 @@
+[
+    {
+        "book_id": "B101",
+        "title": "Python Programming",
+        "author": "John Smith",
+        "publisher": "Tech Books",
+        "year": 2022
+    },
+    {
+        "book_id": "B102",
+        "title": "Data Science",
+        "author": "",
+        "publisher": "Data Publications",
+        "year": 2023
+    },
+    {
+        "book_id": "B103",
+        "title": " Machine Learning ",
+        "author": "David Lee",
+        "publisher": "AI Press",
+        "year": 2021
+    }
+]
